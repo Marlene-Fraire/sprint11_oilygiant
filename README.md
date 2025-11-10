@@ -120,7 +120,7 @@ en VS Code o JupyterLab, y ejecuta todas las celdas en orden para reproducir el 
 ---
 
 ## **Autor**
-**Diana Marlene Reyes Fraire
+**Diana Marlene Reyes Fraire**
 *Data Science Bootcamp — TripleTen*
 **Proyecto Sprint 11: OilyGiant — Selección de la mejor ubicación para un pozo petrolero**
 
